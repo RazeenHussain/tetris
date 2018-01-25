@@ -1,0 +1,29 @@
+			
+				INSTRUCTIONS
+
+
+         			   RULES
+
+  1) The object of the game is to make lines with blocks, navigating them 
+	through the grid.
+  2) When a line is completed, the line is omitted and the above blocks are 
+	shifted down.
+  3) Line formation will result in addition in score.
+	1 point for one line
+	3 points for two lines
+	5 points for three lines
+	7 points for four lines
+  4) The game ends when there is no room for addition of a new block.
+
+
+				HOW TO PLAY
+
+  1) Use the left and right arrow keys to move the incoming block, left or 
+	right respectively.
+  2) Use the up arrow key to rotate the incoming block in the clockwise 
+	direction.
+  3) Use the down arrow key to quickly place the block in the current column.
+  4) At anytime, press the button labelled 'p' to pause the game.
+
+
+				Enjoy Playing!
